@@ -1,0 +1,93 @@
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe.config
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.pdb
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.Properties.Resources.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.GenerateResource.cache
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CoreCompileInputs.cache
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.exe
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.pdb
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmGirişPaneli.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmAnaPanel.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıEkle.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.AssemblyReference.cache
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıDüzenle.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\bin\Debug\Klaslarım.dll
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\bin\Debug\Klaslarım.pdb
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CopyComplete
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.AssemblyReference.cache
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmAnaPanel.resources
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmGirişPaneli.resources
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıDüzenle.resources
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıEkle.resources
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.Properties.Resources.resources
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.GenerateResource.cache
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CoreCompileInputs.cache
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.exe
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.pdb
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe.config
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.pdb
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\bin\Debug\Klaslarım.dll
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\bin\Debug\Klaslarım.pdb
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CopyComplete
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmÖğrenciKaydet.resources
+C:\Users\Alí\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmÖğrenciDüzenle.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmÖğrenciDüzenle.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmÖğrenciKaydet.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe.config
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.pdb
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\bin\Debug\Klaslarım.dll
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\bin\Debug\Klaslarım.pdb
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.AssemblyReference.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmAnaPanel.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmGirişPaneli.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıDüzenle.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıEkle.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmÖğrenciDüzenle.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmÖğrenciKaydet.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.Properties.Resources.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.GenerateResource.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CoreCompileInputs.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CopyComplete
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.exe
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.pdb
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe.config
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.pdb
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\bin\Debug\Klaslarım.dll
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\bin\Debug\Klaslarım.pdb
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.AssemblyReference.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmAnaPanel.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmGirişPaneli.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıDüzenle.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıEkle.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmÖğrenciDüzenle.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmÖğrenciKaydet.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.Properties.Resources.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.GenerateResource.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CoreCompileInputs.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CopyComplete
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.exe
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.pdb
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe.config
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.pdb
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\bin\Debug\Klaslarım.dll
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\bin\Debug\Klaslarım.pdb
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.AssemblyReference.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmAnaPanel.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmGirişPaneli.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıDüzenle.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıEkle.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmÖğrenciDüzenle.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmÖğrenciKaydet.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.Properties.Resources.resources
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.GenerateResource.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CoreCompileInputs.cache
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CopyComplete
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.exe
+C:\Users\serta.DESKTOP-JGF59TU\Desktop\Malparen Projeler\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.pdb

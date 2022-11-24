@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0554C97C-7184-4551-A0CB-19CC6C5B5455}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DershaneProgramı</RootNamespace>
+    <AssemblyName>DershaneProgramı</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAnaPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnaPanel.Designer.cs">
+      <DependentUpon>frmAnaPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGirişPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGirişPaneli.Designer.cs">
+      <DependentUpon>frmGirişPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKullanıcıDüzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKullanıcıDüzenle.Designer.cs">
+      <DependentUpon>frmKullanıcıDüzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKullanıcıEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKullanıcıEkle.Designer.cs">
+      <DependentUpon>frmKullanıcıEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmÖğrenciDüzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmÖğrenciDüzenle.Designer.cs">
+      <DependentUpon>frmÖğrenciDüzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmÖğrenciKaydet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmÖğrenciKaydet.Designer.cs">
+      <DependentUpon>frmÖğrenciKaydet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAnaPanel.resx">
+      <DependentUpon>frmAnaPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGirişPaneli.resx">
+      <DependentUpon>frmGirişPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKullanıcıDüzenle.resx">
+      <DependentUpon>frmKullanıcıDüzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKullanıcıEkle.resx">
+      <DependentUpon>frmKullanıcıEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmÖğrenciDüzenle.resx">
+      <DependentUpon>frmÖğrenciDüzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmÖğrenciKaydet.resx">
+      <DependentUpon>frmÖğrenciKaydet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Klaslarım\Klaslarım.csproj">
+      <Project>{5df963c2-4110-4fbc-a025-89726db1a945}</Project>
+      <Name>Klaslarım</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

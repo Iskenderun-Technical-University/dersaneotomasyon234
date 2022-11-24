@@ -1,0 +1,12 @@
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe.config
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.exe
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\bin\Debug\DershaneProgramı.pdb
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.Properties.Resources.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.GenerateResource.cache
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.CoreCompileInputs.cache
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.exe
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.pdb
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmGirişPaneli.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmAnaPanel.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.frmKullanıcıEkle.resources
+C:\Users\Alí\Desktop\YazılımTemmuz2022\DershaneProgramı\DershaneProgramı\obj\Debug\DershaneProgramı.csproj.AssemblyReference.cache
